@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Subjective Testing}{4}{0}{2}
-\beamer@subsectionintoc {2}{1}{Experimental Design}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Results}{7}{0}{2}
-\beamer@subsectionintoc {2}{3}{Discussion and Conclusion}{20}{0}{2}
-\beamer@sectionintoc {3}{Video Quality Metric}{23}{0}{3}
