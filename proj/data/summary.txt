@@ -1,0 +1,9 @@
+Big.tx:  10
+Birds.tx:  8
+Crowd.tx:  7
+ELF1.tx:  7
+ELF2.tx:  9
+Fox.tx:  6
+Oldtown.tx:  7
+Seeking.tx:  10
+Tennis.tx:  6

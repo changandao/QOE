@@ -1,0 +1,9 @@
+# Birds
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_40_288_375.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_50_288_550.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_60_384_550.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_65_384_750.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_80_480_750.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_85_720_1050.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_90_1080_1800.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BirdsInCage_95_1080_3000.yuv /Users/samwang/Downloads/proj/ref/BirdsInCage_30fps.yuv

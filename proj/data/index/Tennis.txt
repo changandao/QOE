@@ -1,0 +1,8 @@
+#Tennis
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_20_288_375.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_40_384_750.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_60_480_1050.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_70_480_1750.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_80_720_3050.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/Tennis_90_1080_4300.yuv /Users/samwang/Downloads/proj/ref/Tennis_24fps.yuv
+

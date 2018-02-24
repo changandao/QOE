@@ -1,0 +1,10 @@
+# ElF2
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_05_288_375.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_30_480_1750.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_50_720_3050.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_60_1080_4300.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_65_720_4250.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_70_1080_5800.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_80_1080_10000.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_85_1080_15000.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/ElFuente2_90_1080_20000.yuv /Users/samwang/Downloads/proj/ref/ElFuente2_30fps.yuv

@@ -1,0 +1,11 @@
+# BigBuck
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_20_288_375.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_30_384_550.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_40_384_750.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_50_480_1050.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_55_480_1750.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_75_720_3050.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_80_720_4250.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_85_1080_3800.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_90_1080_4300.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/BigBuckBunny_95_1080_5800.yuv /Users/samwang/Downloads/proj/ref/BigBuckBunny_25fps.yuv

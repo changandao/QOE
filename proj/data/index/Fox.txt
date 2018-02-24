@@ -1,0 +1,7 @@
+#Fox
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_20_288_375.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_40_384_750.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_55_480_750.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_65_480_1750.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_80_1080_2300.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/FoxBird_95_1080_5800.yuv /Users/samwang/Downloads/proj/ref/FoxBird_25fps.yuv

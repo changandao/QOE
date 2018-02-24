@@ -1,0 +1,8 @@
+#Oldtown
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_20_288_375.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_45_384_750.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_55_480_750.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_60_480_1750.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_80_720_2350.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_85_720_2950.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
+yuv420p 1920 1080 /Users/samwang/Downloads/proj/dis/OldTownCross_90_1080_4300.yuv /Users/samwang/Downloads/proj/ref/OldTownCross_25fps.yuv
